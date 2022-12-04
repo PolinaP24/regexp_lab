@@ -1,5 +1,4 @@
 package lab_9;
-import java.util.regex.*;
 import java.util.*;
 import java.io.*;
 
@@ -11,8 +10,6 @@ import java.io.*;
 точно число “настроения”, для возможности сравнения различных текстов.
 */
 
-
-import java.util.*;
 
 public class Lab9 {
     public static void main(String[] args) {
